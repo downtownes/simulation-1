@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  /* ID 23E */
+  background-color: #ab2a19;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+  margin: 0 0 0 300px;
+}
+
+.div-holder {
+  width: 720px;
+  height: 450px;
+  /* ID 25G */
+  display: flex;
+  /* ID 24C */
+  margin: 10px auto;
+  flex-direction: column;
+  /* ID 27C */
+  justify-content: center;
+  /* ID 27D */
+  align-items: center;
+}
+
+  /* ID 22C */
+.shelf {
+  width: 710px;
+  height: 100px;
+  background: #D34735;
+  margin: 0 0 10px 0;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.shelves {
+  /* ID 24E */
+  padding: 0 0 0 160px;
+  /* ID 23D */
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 700px;
+  color: white;
+}
